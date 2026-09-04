@@ -3,4 +3,11 @@ def testAdd():
     b = 10
     c = a + b
     return True
+
+def testSubtract():
+    a = 10
+    b = 5
+    c = a - b
+    return True
+
     
