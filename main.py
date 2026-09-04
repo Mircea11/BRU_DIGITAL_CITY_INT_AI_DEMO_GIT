@@ -17,4 +17,9 @@ def testMultiply():
     return True
 
 
+    def testDivide():
+        a = 10
+        b = 2
+        c = a / b
+        return True
     
