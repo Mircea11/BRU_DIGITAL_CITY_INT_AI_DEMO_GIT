@@ -12,3 +12,8 @@ def divide (a, b):
         raise ValueError("Cannot divide by zero.")
     return a / b    
 
+
+print("Calculator functions are ready to use.")
+
+
+print("Calculator functions are ready to use.")

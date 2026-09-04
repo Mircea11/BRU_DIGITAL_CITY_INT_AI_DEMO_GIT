@@ -146,7 +146,7 @@ Fichier enregistré dans l’historique Git.
 
 ---
 
-## Modified
+## Modifiedgit 
 
 Fichier modifié depuis le dernier commit.
 
