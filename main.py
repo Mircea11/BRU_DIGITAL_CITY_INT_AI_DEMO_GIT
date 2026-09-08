@@ -39,5 +39,5 @@ def patch():
     return True)
 
 
-#def patch2():
-#    return True)
+def patch2():
+    return True)
