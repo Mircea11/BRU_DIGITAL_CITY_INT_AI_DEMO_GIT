@@ -34,4 +34,9 @@ def testDivide():
         c = a / b
         return True
 Print("All tests passed successfully!")
-    
+
+def patch():
+    return True)
+
+def patch2():
+    return True)
