@@ -54,3 +54,8 @@ def remote_example_1():
 
 def conflict ():
     return True 
+
+
+def Conflict_dev():
+    return True
+
