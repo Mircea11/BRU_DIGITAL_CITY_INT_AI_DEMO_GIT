@@ -33,10 +33,11 @@ def testDivide():
         b = 2
         c = a / b
         return True
-Print("All tests passed successfully!")
+Print("All tests passed successfully!+++")
 
 def patch():
     return True)
 
-def patch2():
-    return True)
+
+#def patch2():
+#    return True)
