@@ -41,3 +41,7 @@ def patch():
 
 def patch2():
     return True)
+
+def unstable_functions():
+    return True
+
