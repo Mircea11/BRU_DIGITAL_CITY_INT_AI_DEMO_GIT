@@ -38,6 +38,8 @@ Print("All tests passed successfully!+++")
 def patch():
     return True)
 
+def conflict2():
+    return True
 
 def patch2():
     return True)
