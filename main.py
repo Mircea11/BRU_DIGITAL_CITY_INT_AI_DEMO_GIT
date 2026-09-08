@@ -55,8 +55,15 @@ def remote_example_1():
 def conflict ():
     return True 
 
+
+def Conflict_dev():
+    return True
+
 def remote_example_2():
     print("This is a remote example function 2")  
 
 def remote_example_3():
     print("This is a remote example function 3")
+    
+    
+print("COnflict solved")
