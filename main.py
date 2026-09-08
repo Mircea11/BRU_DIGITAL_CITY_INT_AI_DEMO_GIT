@@ -47,3 +47,5 @@ def unstable_functions():
 
 #comments
 #comments 2
+def remote_example_1():
+    return True 
